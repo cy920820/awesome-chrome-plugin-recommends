@@ -2,8 +2,15 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
 
-> Featured Google Chrome Plugin List
+说明
+
+[English](README.md) | [中文](README-cn.md)
+
+> Featured Google Chrome Plugin List.
+
 > Items marked with ![Github][Github Icon] are open-source software. Items marked with ![Pay][Pay Icon] are pay.
+
+> Document format according to [Awesome](https://github.com/sindresorhus/awesome).
 
 ## Table of Contents
 
@@ -128,12 +135,14 @@
 **[⬆ back to top](#table-of-contents)**
 
 ## License
+
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ## TODOS
-- [ ]Add Offline Installer
+
+- [ ] Add Offline Installer
 
 [Github Icon]: ./media/github.svg
 [Pay Icon]: ./media/pay.svg

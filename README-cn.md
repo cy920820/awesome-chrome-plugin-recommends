@@ -2,9 +2,15 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md)
 
-> 精选Google浏览器插件列表
+说明
+
+[English](README.md) | [中文](README-cn.md)
+
+> 精选Google浏览器插件列表。
 
 > 标有 ![Github][Github Icon] 的项目是开源插件。 标有 ![Pay][Pay Icon] 的项目是收费插件。
+
+> 文档格式按照 [Awesome](https://github.com/sindresorhus/awesome)。
 
 ## 目录
 
