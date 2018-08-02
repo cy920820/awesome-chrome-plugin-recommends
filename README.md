@@ -1,125 +1,128 @@
 # Awesome Chrome Extensions
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
 
-> Select list of Google browser plugins
+> Featured Google Chrome Plugin List
+> Items marked with ![Github][Github Icon] are open-source software. Items marked with ![Pay][Pay Icon] are pay.
 
 ## Table of Contents
 
-  - [工具类](#工具类)
-    - [开发者工具](#开发者工具)
-    - [搜素工具](#搜素工具)
-    - [生产工具](#生产工具)
-  - [扩展程序](#扩展程序)
-  - [娱乐](#娱乐)
-  - [照片](#照片)
-  - [社交与通讯](#社交与通讯)
-  - [新闻与天气](#新闻与天气)
-  - [购物](#购物)
-  - [博客](#博客)
-  - [体育](#体育)
-  - [无障碍](#无障碍)
-  - [其他](#其他)
+  - [Tools](#Tools)
+    - [Developer Tool](#Developer tool)
+    - [Search Tool](#Search Tool)
+    - [Production Tool](#Production Tool)
+  - [Extension Program](#Extension Program)
+  - [Entertainment](#Entertainment)
+  - [Photo](#Photo)
+  - [Social And Communication](#Social And Communication)
+  - [News And Weather](#News And Weather)
+  - [Shopping](#Shopping)
+  - [Blog](#Blog)
+  - [Sports](#Sports)
+  - [Accessibility](#Accessibility)
+  - [Other](#Other)
 
 
-## 工具类
+## Tools
 
-### 开发者工具
+### Developer Tool
 
-- [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn?utm_source=chrome-app-launcher-info-dialog) - 只需单击一下按钮即可清除缓存和浏览数据。
-- [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN) - 轻松快捷地管理和切换多个代理设置。 
-- [WEB前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad) - FE助手：包括JSON格式化、二维码生成与解码、信息编解码、代码压缩、美化、页面取色、Markdown与HTML互转、网页滚动截屏、正则表达式、时间转换工具、编码规范检测、页面性能检测、Ajax接口调试、密码生成器、JSON比对工具。
-- [classic-cache-killer](https://chrome.google.com/webstore/detail/classic-cache-killer/kkmknnnjliniefekpicbaaobdnjjikfp) - 在加载页面之前自动清除浏览器缓存。只需单击鼠标即可启用/禁用。
-- [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) - 调整浏览器窗口的大小以模拟各种屏幕分辨率。
-- [eye-dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka) - Eye Dropper是一种开源扩展，允许您从网页，颜色选择器和个人颜色历史中选择颜色。
-- [Axure RP Extension for Chrome](https://chrome.google.com/webstore/detail/axure-rp-extension-for-ch/dogkpdfcklifaemcdfbildhcofnopogp) - 允许从谷歌浏览器本地查看AXEURRP原型的扩展。
-- [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) - 对 JSON 格式的数据进行重新排版，以树形图样式更直观地展现 JSON 文档
-- [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - 生成GITHUB代码树浏览工具
-- [Postman Interceptor](https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo) - 发送通过Postman Chrome应用程序触发的请求。
-- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - 向Chrome开发者工具添加React调试工具。
-- [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) - Redux DevTools用于调试应用程序的状态更改。
-- [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) - 用于调试Vue.js应用程序的Chrome和Firefox DevTools扩展。
-- [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-g/ffhkkpnppgnfaobgihpdblnhmmbodake) - 使用我们的预定义用户代理浏览或添加您自己的用户代理。
-
-
-### 搜素工具
-
-- [右键搜](https://chrome.google.com/webstore/detail/context-menus/phlfmkfpmphogkomddckmggcfpmfchpn) - 扩展右键菜单，超过300种功能，方便的选择、组合或自定义页面、划词、图片菜单，并有生成、解析二维码和短网址功能。设置可使用云存储。最新增加功能共享、资源下载、重命名等功能。右键搜伴侣增加超级拖拽。
+- [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn?utm_source=chrome-app-launcher-info-dialog) - Clear cache and browse data with the click of a button.
+- [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN) - Manage and switch multiple proxy settings quickly and easily. 
+- [WEB前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad) - FE assistant.
+- [classic-cache-killer](https://chrome.google.com/webstore/detail/classic-cache-killer/kkmknnnjliniefekpicbaaobdnjjikfp) - Automatically clear the browser cache before loading the page. It can be enabled/disabled with a single click of the mouse.
+- [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) - Resize the browser window to simulate various screen resolutions.
+- [eye-dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka) - Eye Dropper is an open source extension that allows you to choose colors from web pages, color pickers and personal color history.
+- [Axure RP Extension for Chrome](https://chrome.google.com/webstore/detail/axure-rp-extension-for-ch/dogkpdfcklifaemcdfbildhcofnopogp) - Allows an extension of the AXEURRP prototype to be viewed locally from Google Chrome.
+- [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) - Re-formatting data in JSON format to present JSON documents more intuitively in a tree view style.
+- [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - Generate GITHUB code tree browsing tool.
+- [Postman Interceptor](https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo) - Send a request triggered by the Postman Chrome app.
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Add the React debugging tool to the Chrome Developer Tools.
+- [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) - Redux DevTools is used to debug state changes to the application.
+- [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) - Chrome and Firefox DevTools extensions for debugging Vue.js applications.
+- [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-g/ffhkkpnppgnfaobgihpdblnhmmbodake) - Browse or add your own user agent using our predefined user agent.
 
 
-### 生产工具
+### Search Tool
 
-- [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) - 浏览网页时可轻松查看翻译版本。由Google翻译小组提供。
-- [Google Keep Chrome](https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi) - 只需点击一下，把特定的网页、图片或引用文字保存到Google Keep！
-- [滴答清单 - Todo & 任务提醒](https://chrome.google.com/webstore/detail/ticktick-todo-task-list/diankknpkndanachmlckaikddgcehkod) - 简洁, 易用的待办和任务管理工具, 帮助您高效完成所有的事情, 合理规划时间, 让生活更轻松！
-- [Clipbrd Beta](https://chrome.google.com/webstore/detail/clipbrd-beta/febnkhppinonnjgfjdigiipdajophkkk) - 在所有设备之间同步剪贴板！
-- [云盘万能钥匙](https://chrome.google.com/webstore/detail/%E4%BA%91%E7%9B%98%E4%B8%87%E8%83%BD%E9%92%A5%E5%8C%99/anlllmnpjodopgbkbpnghnjlelnogfjc/related?hl=zh-CN) - 自动填写百度网盘提取密码。
-- [BaiduPan Explorer](https://chrome.google.com/webstore/detail/baidupan-explorer/lncbhecjekffklnelbeninpnacopebcp) - 获取百度网盘高速下载链接。[![github][Github Icon]](https://github.com/luochenzhimu/BaiduPan-Explorer)
-- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=zh-CN) - 节省高达95％的内存，并减轻标签页混乱现象。
-- [IE Tab](https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd) - 在标签页中以IE内核显示网页。快捷、强健、可靠。这个版本是最流行的一个原因。
-- [掘金](https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb) - 为设计师、程序员、产品经理每日发现优质内容。
-- [待办事项列表及任务管理器](https://chrome.google.com/webstore/detail/todoist-to-do-list-and-ta/jldhpllghnbhlbpcmnajkpdmadaolakh) - Todoist 管理着数以百万计的任务，是最好的在线待办事项列表。适用于 Chrome、Web、iPhone、Android、Firefox、Outlook 和其他平台。
-- [Evernote Web Clipper](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc) - 使用Evernote扩展将您在Web上看到的东西保存到Evernote帐户中。
-- [Grammarly for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) - 加强你的书面沟通, 无论你在什么地方打字
-- [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb) - Adblock Plus 是拥有超过 5 亿次下载的全球最受欢迎的广告拦截软件之一。
-- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - 安装管理油猴脚本 (GreaseMonkey) 
-- [二维码(QR码)生成器](https://chrome.google.com/webstore/detail/%E4%BA%8C%E7%BB%B4%E7%A0%81qr%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8qr-code-generato/pflgjjogbmmcmfhfcnlohagkablhbpmg) - 可以生成当前页面二维码,手机直接扫二维码就可以访问当前页面。
-- [简悦 - SimpRead](https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll) - 让你瞬间进入沉浸式阅读的 Chrome 扩展，类似 Safari 的阅读模式。
-- [迅雷下载支持](https://chrome.google.com/webstore/detail/%E8%BF%85%E9%9B%B7%E4%B8%8B%E8%BD%BD%E6%94%AF%E6%8C%81/bclmkgofhdgekpoamoialodjdloiilod) - 迅雷下载支持，让您在Chrome浏览器中点击下载链接时，快速的调起迅雷客户端进行下载。
-- [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - 键盘流必备神器，可以用 VIM 的操作方式来操作 Chrome，Geek 们和键盘操作控必备。
+- [右键搜](https://chrome.google.com/webstore/detail/context-menus/phlfmkfpmphogkomddckmggcfpmfchpn) - Expand right-click menu with over 300 features.
 
 
-## 扩展程序
+### Production Tool
 
-- [arc-welder](https://chrome.google.com/webstore/detail/arc-welder/emfinbmielocnlhgmfkkmkngdoccbadn) - 一款帮助您使用App Runtime for Chrome（beta），ARC测试和发布Android应用程序到Chrome OS的工具。
-
-
-## 娱乐
-
-- [豆瓣FM-Hacker](https://chrome.google.com/webstore/detail/%E8%B1%86%E7%93%A3fm-hacker/pjpdhffcchclaedfnlkmpacghddkpgjh) - 嵌入网页版豆瓣FM(douban.fm)页面内,列举出豆瓣FM已播放的歌曲信息,并提供歌曲下载,更有单曲循环,红心歌曲和批量下载脚本等功能
-
-
-## 照片
-
-- [Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj) - 下载网页上的图像。
-- [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?utm_source=chrome-app-launcher-info-dialog) - 鼠标指针悬停在链接或缩略图上时直接在当前页面的弹出视图上显示这些图片、HTML5 视频/音频和内容专辑。
-- [Fatkun](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?hl=zh-CN) - 找出当前页面的所有图片，提供按分辨率、链接等筛选图片，进行图片批量下载。
-- [新浪微博图床](https://chrome.google.com/webstore/detail/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E5%9B%BE%E5%BA%8A/fdfdnfpdplfbbnemmmoklbfjbhecpnhf?utm_campaign=en) - 简单好用的新浪微博图床,支持选择/拖拽/粘贴上传图片,并生成图片地址,HTML,UBB和Markdown等格式,支持浏览和删除历史记录。
-
-
-## 社交与通讯
-
-- [Google Mail Checker](https://chrome.google.com/webstore/detail/google-mail-checker/mihcahmgecmbnbcchbopgniflfhgnkff) - 显示 Google Mail 收件箱中的未读邮件数。
-- [Checker Plus for Gmail™](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj) - 无需打开 Gmail 或 Inbox，即可收到桌面邮件通知，方便地查看、收听或删除邮件，并且支持多账户。
+- [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) - The translated version can be easily viewed while browsing the web. Provided by the Google Translate team.
+- [Google Keep Chrome](https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi) - Save specific webpages, images, or quoted text to Google Keep with a single click!
+- [滴答清单 - Todo & 任务提醒](https://chrome.google.com/webstore/detail/ticktick-todo-task-list/diankknpkndanachmlckaikddgcehkod) - Simple, easy-to-use to-do and task management tools to help you do everything efficiently, plan your time, and make life easier!
+- [Clipbrd Beta](https://chrome.google.com/webstore/detail/clipbrd-beta/febnkhppinonnjgfjdigiipdajophkkk) - Synchronize the clipboard between all devices!
+- [云盘万能钥匙](https://chrome.google.com/webstore/detail/%E4%BA%91%E7%9B%98%E4%B8%87%E8%83%BD%E9%92%A5%E5%8C%99/anlllmnpjodopgbkbpnghnjlelnogfjc/related?hl=zh-CN) - Automatically fill in the Baidu network disk to extract the password.
+- [BaiduPan Explorer](https://chrome.google.com/webstore/detail/baidupan-explorer/lncbhecjekffklnelbeninpnacopebcp) - Get Baidu network disk high speed download link.[![github][Github Icon]](https://github.com/luochenzhimu/BaiduPan-Explorer)
+- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=zh-CN) - Save up to 95% of memory and reduce tab clutter.
+- [IE Tab](https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd) - The web page is displayed in the IE kernel in the tab. Fast, robust and reliable. This version is one of the most popular reasons.
+- [掘金](https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb) - Discover high-quality content daily for designers, programmers, and product managers.
+- [待办事项列表及任务管理器](https://chrome.google.com/webstore/detail/todoist-to-do-list-and-ta/jldhpllghnbhlbpcmnajkpdmadaolakh) - Todoist manages millions of tasks and is the best online to-do list. Works on Chrome, the web, iPhone, Android, Firefox, Outlook, and other platforms.
+- [Evernote Web Clipper](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc) - Use the Evernote extension to save what you see on the web to your Evernote account.
+- [Grammarly for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) - Strengthen your written communication, no matter where you type.
+- [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb) - Adblock Plus is one of the world's most popular ad blocking software with over 500 million downloads.
+- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - Install Management Oil Monkey Script (GreaseMonkey).
+- [二维码(QR码)生成器](https://chrome.google.com/webstore/detail/%E4%BA%8C%E7%BB%B4%E7%A0%81qr%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8qr-code-generato/pflgjjogbmmcmfhfcnlohagkablhbpmg) - The current page QR code can be generated, and the current page can be accessed by directly scanning the QR code on the mobile phone.
+- [简悦 - SimpRead](https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll) - A Chrome extension that lets you instantly immersively read, similar to Safari's reading mode.
+- [迅雷下载支持](https://chrome.google.com/webstore/detail/%E8%BF%85%E9%9B%B7%E4%B8%8B%E8%BD%BD%E6%94%AF%E6%8C%81/bclmkgofhdgekpoamoialodjdloiilod) - Thunder download support allows you to quickly launch the Thunder client for download when you click on the download link in the Chrome browser.
+- [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - Keyboard streaming essential artifacts, you can use VIM to operate Chrome, Geek and keyboard operation controls.
 
 
-## 新闻与天气
+## Extension Program
 
-- [Weather](https://chrome.google.com/webstore/detail/weather/iolcbmjhmpdheggkocibajddahbeiglb) - 在浏览器中查看Weather的最佳方式。比在外面看更容易！
-
-
-## 购物
-
-- [全网自动比价工具](https://chrome.google.com/webstore/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E5%85%A8%E7%BD%91%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7%EF%BC%9A%E6%B7%98%E5%AE%9D%E4%BA%AC%E4%B8%9C%E7%BE%8E%E4%BA%9A%E6%97%A5%E4%BA%9A%E6%AF%94%E4%BB%B7%E3%80%8118/jgphnjokjhjlcnnajmfjlacjnjkhleah?utm_campaign=en) - 浏览商品页面时，自动比较同款商品在淘宝/京东/亚马逊/当当/苏宁/等百家商城的最低价，提供价格历史、口碑评分等查询。
+- [arc-welder](https://chrome.google.com/webstore/detail/arc-welder/emfinbmielocnlhgmfkkmkngdoccbadn) - A tool to help you use App Runtime for Chrome (beta), ARC testing and publishing Android apps to Chrome OS.
 
 
-## 博客
+## Entertainment
 
-- [Daily-Front-End-news](https://chrome.google.com/webstore/detail/daily-front-end-news/dcijaoifeaaafbdglmalaajeedcamogg) - 前端每日前沿资讯推送 - 前端，Node，可视化，Python，工具，人工智能，区块链，etc。
-
-
-## 体育
-
-- [365Scores](https://chrome.google.com/webstore/detail/365scores-live-scoresspor/nmpppefjehmjbiplimkfjeamnohldmko?utm_source=chrome-app-launcher-info-dialog) - 即时比分，新闻和实时通知您最喜欢的运动 - NFL，MLB，NBA，NHL，NCAA，足球，网球等
+- [豆瓣FM-Hacker](https://chrome.google.com/webstore/detail/%E8%B1%86%E7%93%A3fm-hacker/pjpdhffcchclaedfnlkmpacghddkpgjh) - Embedded in the web version of Douban FM (douban.fm) page, list the song information that Douban FM has played, and provide song downloads, more single loops, red hearts songs and batch download scripts.
 
 
-## 无障碍
+## Photo
 
-- [关灯看视频](https://chrome.google.com/webstore/detail/turn-off-the-lights/bfbmjmiodbnnpllbbbfblcplfjjepjdn) - 观看视频时自动调暗页面，让您仿佛置身于电影院中观看视频。 适用于 YouTube™ 和其他视频网站。
-- [Incognito-Filter](https://chrome.google.com/webstore/detail/incognito-filter/cifilbmpnkjinlkchohdfcpdkmpngiik) - 让指定的网站在“隐身窗口”中打开，用来对付一些不太想留痕迹的网站。
-- [download-manager](https://chrome.google.com/webstore/detail/download-manager/daoidaoebhfcgccdpgjjcbdginkofmfe) - 在 Chrome 的工具栏右上方管理你的下载文件。
+- [Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj) - Download the image on the web page.
+- [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?utm_source=chrome-app-launcher-info-dialog) - These images, HTML5 video/audio, and content albums are displayed directly on the pop-up view of the current page when the mouse pointer hovers over the link or thumbnail.
+- [Fatkun](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?hl=zh-CN) - Find all the pictures on the current page, provide filters by resolution, links, etc., and download the images in batches.
+- [新浪微博图床](https://chrome.google.com/webstore/detail/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E5%9B%BE%E5%BA%8A/fdfdnfpdplfbbnemmmoklbfjbhecpnhf?utm_campaign=en) - Simple and easy to use Sina Weibo map bed, support selection / drag / paste upload pictures, and generate image address, HTML, UBB and Markdown formats, support browsing and delete history.
 
 
-## 其他
+## Social And Communication
+
+- [Google Mail Checker](https://chrome.google.com/webstore/detail/google-mail-checker/mihcahmgecmbnbcchbopgniflfhgnkff) - Shows the number of unread messages in your Google Mail inbox.
+- [Checker Plus for Gmail™](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj) - Receive email notifications on your desktop without having to open Gmail or Inbox, easily view, listen to or delete messages, and support multiple accounts.
+
+
+## News And Weather
+
+- [Weather](https://chrome.google.com/webstore/detail/weather/iolcbmjhmpdheggkocibajddahbeiglb) - The best way to view Weather in your browser. It's easier than looking outside!
+
+
+## Shopping
+
+- [全网自动比价工具](https://chrome.google.com/webstore/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E5%85%A8%E7%BD%91%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7%EF%BC%9A%E6%B7%98%E5%AE%9D%E4%BA%AC%E4%B8%9C%E7%BE%8E%E4%BA%9A%E6%97%A5%E4%BA%9A%E6%AF%94%E4%BB%B7%E3%80%8118/jgphnjokjhjlcnnajmfjlacjnjkhleah?utm_campaign=en) - When browsing the product page, it automatically compares the lowest price of the same item in Taobao/Jingdong/Amazon/Dangdang/Suning/100 stores, and provides price history and word-of-mouth rating.
+
+
+## Blog
+
+- [Daily-Front-End-news](https://chrome.google.com/webstore/detail/daily-front-end-news/dcijaoifeaaafbdglmalaajeedcamogg) - Front-end daily frontier information push - front end, Node, visualization, Python, tools, artificial intelligence, blockchain, etc.
+
+
+## Sports
+
+- [365Scores](https://chrome.google.com/webstore/detail/365scores-live-scoresspor/nmpppefjehmjbiplimkfjeamnohldmko?utm_source=chrome-app-launcher-info-dialog) - Live scores, news and real-time notifications of your favorite sports - NFL, MLB, NBA, NHL, NCAA, football, tennis and more.
+
+
+## Accessibility
+
+- [关灯看视频](https://chrome.google.com/webstore/detail/turn-off-the-lights/bfbmjmiodbnnpllbbbfblcplfjjepjdn) - Automatically dim the page as you watch the video, making you feel like you are watching a video in a movie theater. Available for YouTubeTM and other video sites.
+- [Incognito-Filter](https://chrome.google.com/webstore/detail/incognito-filter/cifilbmpnkjinlkchohdfcpdkmpngiik) - Let the specified website open in an "incognito window" to deal with sites that don't want to leave a trace.
+- [download-manager](https://chrome.google.com/webstore/detail/download-manager/daoidaoebhfcgccdpgjjcbdginkofmfe) - Manage your downloads in the top right of Chrome's toolbar.
+
+
+## Other
+
 
 
 **[⬆ back to top](#table-of-contents)**
@@ -130,7 +133,7 @@
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ## TODOS
-- [ ] Add Offline Installer
+- [ ]Add Offline Installer
 
 [Github Icon]: ./media/github.svg
 [Pay Icon]: ./media/pay.svg
