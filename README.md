@@ -1,6 +1,7 @@
 # Awesome Chrome Extensions
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
+[![Build Status](https://travis-ci.org/Cui-y/awesome-chrome-plugin-recommends.svg)](https://travis-ci.org/Cui-y/awesome-chrome-plugin-recommends.svg)
 
 说明
 
