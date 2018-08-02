@@ -123,7 +123,7 @@
 ## 其他
 
 
-**[⬆ 回到顶部](#table-of-contents)**
+**[⬆ 回到顶部](#目录)**
 
 ## 许可证
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
@@ -131,7 +131,7 @@
 此项目基于 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ## 待办事项
-- [ ]增加离线安装包
+- [ ] 增加离线安装包
 
 [Github Icon]: ./media/github.svg
 [Pay Icon]: ./media/pay.svg
