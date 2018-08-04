@@ -1,9 +1,8 @@
-# Awesome Chrome Extensions
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
-[![Build Status](https://travis-ci.org/Cui-y/awesome-chrome-plugin-recommends.svg)](https://travis-ci.org/Cui-y/awesome-chrome-plugin-recommends.svg)
+# Awesome Chrome Extensions [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md) [![Build Status](https://travis-ci.org/Cui-y/awesome-chrome-plugin-recommends.svg)](https://travis-ci.org/Cui-y/awesome-chrome-plugin-recommends.svg)
 
-说明
+![geek](./media/geek.jpg)
+
+## Write in front of the words
 
 [English](README.md) | [中文](README-cn.md)
 
@@ -12,6 +11,11 @@
 > Items marked with ![Github][Github Icon] are open-source software. Items marked with ![Pay][Pay Icon] are pay.
 
 > Document format according to [Awesome](https://github.com/sindresorhus/awesome).
+
+> If there are impropriety or recommended plug-ins, welcome [PR](https://github.com/Cui-y/awesome-chrome-plugin-recommends/pulls) or [issues](https://github.com/Cui-y/awesome-chrome-plugin-recommends/issues)
+
+
+## Change Log:
 
 ## Table of Contents
 
