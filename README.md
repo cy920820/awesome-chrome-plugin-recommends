@@ -62,6 +62,7 @@
 
 ### Production Tool
 
+- [Mainichi](https://chrome.google.com/webstore/detail/mainichi/dfekdjmdikicceaiokcmmchenpilglhn?hl=zh-CN) Learn Japanese each time you open a new tab.
 - [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) - The translated version can be easily viewed while browsing the web. Provided by the Google Translate team.
 - [Google Keep Chrome](https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi) - Save specific webpages, images, or quoted text to Google Keep with a single click!
 - [滴答清单 - Todo & 任务提醒](https://chrome.google.com/webstore/detail/ticktick-todo-task-list/diankknpkndanachmlckaikddgcehkod) - Simple, easy-to-use to-do and task management tools to help you do everything efficiently, plan your time, and make life easier!
