@@ -19,20 +19,20 @@
 
 ## Table of Contents
 
-  - [Tools](#Tools)
-    - [Developer Tool](#Developer-Tool)
-    - [Search Tool](#Search-Tool)
-    - [Production Tool](#Production-Tool)
-  - [Extension Program](#Extension-Program)
-  - [Entertainment](#Entertainment)
-  - [Photo](#Photo)
-  - [Social And Communication](#Social-And-Communication)
-  - [News And Weather](#News-And-Weather)
-  - [Shopping](#Shopping)
-  - [Blog](#Blog)
-  - [Sports](#Sports)
-  - [Accessibility](#Accessibility)
-  - [Other](#Other)
+  - [Tools](#tools)
+    - [Developer Tool](#developer-Tool)
+    - [Search Tool](#search-Tool)
+    - [Production Tool](#production-Tool)
+  - [Extension Program](#extension-Program)
+  - [Entertainment](#entertainment)
+  - [Photo](#photo)
+  - [Social And Communication](#social-And-Communication)
+  - [News And Weather](#news-And-Weather)
+  - [Shopping](#shopping)
+  - [Blog](#blog)
+  - [Sports](#sports)
+  - [Accessibility](#accessibility)
+  - [Other](#other)
 
 
 ## Tools
