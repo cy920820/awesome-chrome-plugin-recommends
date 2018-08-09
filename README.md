@@ -62,6 +62,7 @@
 
 ### Production Tool
 
+- [Google access assistant](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E8%AE%BF%E9%97%AE%E5%8A%A9%E6%89%8B/gocklaboggjfkolaknpbhddbaopcepfp?utm_source=chrome-app-launcher-info-dialog) - The simplest and easiest Google Access Assistant is tailored for Chrome Extension users.
 - [Mainichi](https://chrome.google.com/webstore/detail/mainichi/dfekdjmdikicceaiokcmmchenpilglhn?hl=zh-CN) Learn Japanese each time you open a new tab.
 - [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) - The translated version can be easily viewed while browsing the web. Provided by the Google Translate team.
 - [Google Keep Chrome](https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi) - Save specific webpages, images, or quoted text to Google Keep with a single click!

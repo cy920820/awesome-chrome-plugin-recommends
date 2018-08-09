@@ -62,6 +62,7 @@
 
 ### 生产工具
 
+- [谷歌访问助手](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E8%AE%BF%E9%97%AE%E5%8A%A9%E6%89%8B/gocklaboggjfkolaknpbhddbaopcepfp?utm_source=chrome-app-launcher-info-dialog) - 最简单易用的谷歌访问助手,为chrome扩展用户量身打造。
 - [Mainichi](https://chrome.google.com/webstore/detail/mainichi/dfekdjmdikicceaiokcmmchenpilglhn?hl=zh-CN) 学习日语，每页一词。
 - [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) - 浏览网页时可轻松查看翻译版本。由Google翻译小组提供。
 - [Google Keep Chrome](https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi) - 只需点击一下，把特定的网页、图片或引用文字保存到Google Keep！
