@@ -87,6 +87,7 @@
 
 ## Extension Program
 
+- [Undo Close Tab](https://chrome.google.com/webstore/detail/undoclosetab/agoafanmgjplfjeiabopkembipjbpnac) -  Can restore the recently closed tab page.
 - [arc-welder](https://chrome.google.com/webstore/detail/arc-welder/emfinbmielocnlhgmfkkmkngdoccbadn) - A tool to help you use App Runtime for Chrome (beta), ARC testing and publishing Android apps to Chrome OS.
 
 

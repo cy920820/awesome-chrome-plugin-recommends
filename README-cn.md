@@ -87,6 +87,7 @@
 
 ## 扩展程序
 
+- [Undo Close Tab](https://chrome.google.com/webstore/detail/undoclosetab/agoafanmgjplfjeiabopkembipjbpnac) - 可以恢复最近关闭的标签页
 - [arc-welder](https://chrome.google.com/webstore/detail/arc-welder/emfinbmielocnlhgmfkkmkngdoccbadn) - 一款帮助您使用App Runtime for Chrome（beta），ARC测试和发布Android应用程序到Chrome OS的工具。
 
 
