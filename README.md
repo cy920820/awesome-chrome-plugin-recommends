@@ -40,6 +40,7 @@
 ### Developer Tool
 
 - [Octo Mate](https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkbmpkf) - List the navigation, file download, notification, etc. on the right side of the page.
+- [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - Identify web technologies.
 - [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn?utm_source=chrome-app-launcher-info-dialog) - Clear cache and browse data with the click of a button.
 - [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN) - Manage and switch multiple proxy settings quickly and easily. 
 - [WEB前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad) - FE assistant.
@@ -87,6 +88,7 @@
 
 ## Extension Program
 
+- [Undo Close Tab](https://chrome.google.com/webstore/detail/undoclosetab/agoafanmgjplfjeiabopkembipjbpnac) -  Can restore the recently closed tab page.
 - [arc-welder](https://chrome.google.com/webstore/detail/arc-welder/emfinbmielocnlhgmfkkmkngdoccbadn) - A tool to help you use App Runtime for Chrome (beta), ARC testing and publishing Android apps to Chrome OS.
 
 

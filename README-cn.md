@@ -40,6 +40,7 @@
 ### 开发者工具
 
 - [Octo Mate](https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkbmpkf) - 在网页右侧列出文本的导航,文件下载，通知等。
+- [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - 识别页面Web技术.
 - [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn?utm_source=chrome-app-launcher-info-dialog) - 只需单击一下按钮即可清除缓存和浏览数据。
 - [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN) - 轻松快捷地管理和切换多个代理设置。 
 - [WEB前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad) - FE助手：包括JSON格式化、二维码生成与解码、信息编解码、代码压缩、美化、页面取色、Markdown与HTML互转、网页滚动截屏、正则表达式、时间转换工具、编码规范检测、页面性能检测、Ajax接口调试、密码生成器、JSON比对工具。
@@ -87,6 +88,7 @@
 
 ## 扩展程序
 
+- [Undo Close Tab](https://chrome.google.com/webstore/detail/undoclosetab/agoafanmgjplfjeiabopkembipjbpnac) - 可以恢复最近关闭的标签页
 - [arc-welder](https://chrome.google.com/webstore/detail/arc-welder/emfinbmielocnlhgmfkkmkngdoccbadn) - 一款帮助您使用App Runtime for Chrome（beta），ARC测试和发布Android应用程序到Chrome OS的工具。
 
 
