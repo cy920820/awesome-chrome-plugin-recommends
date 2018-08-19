@@ -12,7 +12,7 @@
 
 > 文档格式按照 [Awesome](https://github.com/sindresorhus/awesome)。
 
-> 如有不当之处或者有推荐的插件，欢迎 [PR](https://github.com/Cui-y/awesome-chrome-plugin-recommends/pulls) 或 [issues](https://github.com/Cui-y/awesome-chrome-plugin-recommends/issues)
+> 如有不当之处或者有推荐的插件，欢迎 [PR](https://github.com/Cui-y/awesome-chrome-plugin-recommends/pulls) 或 [issues](https://github.com/Cui-y/awesome-chrome-plugin-recommends/issues)。
 
 
 ## 更新日志：

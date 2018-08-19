@@ -12,7 +12,7 @@
 
 > Document format according to [Awesome](https://github.com/sindresorhus/awesome).
 
-> If there are impropriety or recommended plug-ins, welcome [PR](https://github.com/Cui-y/awesome-chrome-plugin-recommends/pulls) or [issues](https://github.com/Cui-y/awesome-chrome-plugin-recommends/issues)
+> If there are impropriety or recommended plug-ins, welcome [PR](https://github.com/Cui-y/awesome-chrome-plugin-recommends/pulls) or [issues](https://github.com/Cui-y/awesome-chrome-plugin-recommends/issues).
 
 
 ## Change Log:
