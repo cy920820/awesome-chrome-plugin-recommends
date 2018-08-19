@@ -39,6 +39,7 @@
 
 ### 开发者工具
 
+- [分辨率测试](https://chrome.google.com/webstore/detail/resolution-test/idhfcdbheobinplaamokffboaccidbal) - 开发人员在不同屏幕分辨率下测试网页的扩展。
 - [Octo Mate](https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkbmpkf) - 在网页右侧列出文本的导航,文件下载，通知等。
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - 识别页面Web技术.
 - [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn?utm_source=chrome-app-launcher-info-dialog) - 只需单击一下按钮即可清除缓存和浏览数据。
