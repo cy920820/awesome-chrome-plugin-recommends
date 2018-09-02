@@ -67,7 +67,7 @@
 
 - [PDF Viewer](https://chrome.google.com/webstore/detail/pdf-viewer/oemmndcbldboiebfnladdacbdfmadadm) - 使用HTML5直接在浏览器中显示pdf格式媒体资源
 - [Favioli](https://chrome.google.com/webstore/detail/favioli/pnoookpoipfmadlpkijnboajfklplgbe) - 网站favicon的emoji
-- [划词翻译](https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad) - 一个简便但强大的翻译扩展。
+- [划词翻译](https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad) - 一个简便但强大的翻译扩展。[![github][Github Icon]](https://github.com/Selection-Translator/crx-selection-translate)
 - [谷歌访问助手](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E8%AE%BF%E9%97%AE%E5%8A%A9%E6%89%8B/gocklaboggjfkolaknpbhddbaopcepfp?utm_source=chrome-app-launcher-info-dialog) - 最简单易用的谷歌访问助手,为chrome扩展用户量身打造。
 - [Mainichi](https://chrome.google.com/webstore/detail/mainichi/dfekdjmdikicceaiokcmmchenpilglhn?hl=zh-CN) 学习日语，每页一词。
 - [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) - 浏览网页时可轻松查看翻译版本。由Google翻译小组提供。
