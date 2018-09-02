@@ -65,6 +65,9 @@
 
 ### 生产工具
 
+- [PDF Viewer](https://chrome.google.com/webstore/detail/pdf-viewer/oemmndcbldboiebfnladdacbdfmadadm) - 使用HTML5直接在浏览器中显示pdf格式媒体资源
+- [Favioli](https://chrome.google.com/webstore/detail/favioli/pnoookpoipfmadlpkijnboajfklplgbe) - 网站favicon的emoji
+- [划词翻译](https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad) - 一个简便但强大的翻译扩展。
 - [谷歌访问助手](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E8%AE%BF%E9%97%AE%E5%8A%A9%E6%89%8B/gocklaboggjfkolaknpbhddbaopcepfp?utm_source=chrome-app-launcher-info-dialog) - 最简单易用的谷歌访问助手,为chrome扩展用户量身打造。
 - [Mainichi](https://chrome.google.com/webstore/detail/mainichi/dfekdjmdikicceaiokcmmchenpilglhn?hl=zh-CN) 学习日语，每页一词。
 - [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) - 浏览网页时可轻松查看翻译版本。由Google翻译小组提供。
@@ -119,6 +122,7 @@
 
 ## 购物
 
+- [京价保 - 京东价保助手](https://chrome.google.com/webstore/detail/%E4%BA%AC%E4%BB%B7%E4%BF%9D-%E4%BA%AC%E4%B8%9C%E4%BB%B7%E4%BF%9D%E5%8A%A9%E6%89%8B/gfgkebiommjpiaomalcbfefimhhanlfd) - 京价保（京价宝）是自动为你申请京东价格保护，自动签到领京豆、钢镚的多功能京东助手
 - [全网自动比价工具](https://chrome.google.com/webstore/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E5%85%A8%E7%BD%91%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7%EF%BC%9A%E6%B7%98%E5%AE%9D%E4%BA%AC%E4%B8%9C%E7%BE%8E%E4%BA%9A%E6%97%A5%E4%BA%9A%E6%AF%94%E4%BB%B7%E3%80%8118/jgphnjokjhjlcnnajmfjlacjnjkhleah?utm_campaign=en) - 浏览商品页面时，自动比较同款商品在淘宝/京东/亚马逊/当当/苏宁/等百家商城的最低价，提供价格历史、口碑评分等查询。
 
 

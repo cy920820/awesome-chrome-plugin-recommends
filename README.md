@@ -65,6 +65,9 @@
 
 ### Production Tool
 
+- [PDF Viewer](https://chrome.google.com/webstore/detail/pdf-viewer/oemmndcbldboiebfnladdacbdfmadadm) - Uses HTML5 to display PDF files directly in the browser.
+- [Favioli](https://chrome.google.com/webstore/detail/favioli/pnoookpoipfmadlpkijnboajfklplgbe) - Emoji favicons for the web
+- [划词翻译](https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad) - A simple but powerful translation extension.
 - [Google access assistant](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E8%AE%BF%E9%97%AE%E5%8A%A9%E6%89%8B/gocklaboggjfkolaknpbhddbaopcepfp?utm_source=chrome-app-launcher-info-dialog) - The simplest and easiest Google Access Assistant is tailored for Chrome Extension users.
 - [Mainichi](https://chrome.google.com/webstore/detail/mainichi/dfekdjmdikicceaiokcmmchenpilglhn?hl=zh-CN) Learn Japanese each time you open a new tab.
 - [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) - The translated version can be easily viewed while browsing the web. Provided by the Google Translate team.
@@ -119,6 +122,7 @@
 
 ## Shopping
 
+- [京价保 - 京东价保助手](https://chrome.google.com/webstore/detail/%E4%BA%AC%E4%BB%B7%E4%BF%9D-%E4%BA%AC%E4%B8%9C%E4%BB%B7%E4%BF%9D%E5%8A%A9%E6%89%8B/gfgkebiommjpiaomalcbfefimhhanlfd) - Beijing price insurance (Jing price treasure) is a multi-functional Jingdong assistant who automatically applies for Jingdong price protection for you, and automatically signs in to Beijing Jingdou and Gangwon.
 - [全网自动比价工具](https://chrome.google.com/webstore/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E5%85%A8%E7%BD%91%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7%EF%BC%9A%E6%B7%98%E5%AE%9D%E4%BA%AC%E4%B8%9C%E7%BE%8E%E4%BA%9A%E6%97%A5%E4%BA%9A%E6%AF%94%E4%BB%B7%E3%80%8118/jgphnjokjhjlcnnajmfjlacjnjkhleah?utm_campaign=en) - When browsing the product page, it automatically compares the lowest price of the same item in Taobao/Jingdong/Amazon/Dangdang/Suning/100 stores, and provides price history and word-of-mouth rating.
 
 
