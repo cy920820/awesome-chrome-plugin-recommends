@@ -14,7 +14,6 @@
 
 > If there are impropriety or recommended plug-ins, welcome [PR](https://github.com/Cui-y/awesome-chrome-plugin-recommends/pulls) or [issues](https://github.com/Cui-y/awesome-chrome-plugin-recommends/issues).
 
-
 ## Change Log:
 
 ## Table of Contents
@@ -33,7 +32,6 @@
   - [Sports](#sports)
   - [Accessibility](#accessibility)
   - [Other](#other)
-
 
 ## Tools
 
@@ -65,6 +63,7 @@
 
 ### Production Tool
 
+- [Auto refresh Page plugin](https://chrome.google.com/webstore/detail/free-auto-refresh/lfkfikiejjfhpfbpgfolfkkdjpepmkal) - The best free page refresh plugin helps you automatically refresh the page at the right time and at the right time at the specified interval.
 - [PDF Viewer](https://chrome.google.com/webstore/detail/pdf-viewer/oemmndcbldboiebfnladdacbdfmadadm) - Uses HTML5 to display PDF files directly in the browser.
 - [Favioli](https://chrome.google.com/webstore/detail/favioli/pnoookpoipfmadlpkijnboajfklplgbe) - Emoji favicons for the web
 - [划词翻译](https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad) - A simple but powerful translation extension.[![github][Github Icon]](https://github.com/Selection-Translator/crx-selection-translate)

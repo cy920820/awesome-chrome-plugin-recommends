@@ -14,7 +14,6 @@
 
 > 如有不当之处或者有推荐的插件，欢迎 [PR](https://github.com/Cui-y/awesome-chrome-plugin-recommends/pulls) 或 [issues](https://github.com/Cui-y/awesome-chrome-plugin-recommends/issues)。
 
-
 ## 更新日志：
 
 ## 目录
@@ -33,7 +32,6 @@
   - [体育](#体育)
   - [无障碍](#无障碍)
   - [其他](#其他)
-
 
 ## 工具类
 
@@ -65,6 +63,7 @@
 
 ### 生产工具
 
+- [页面自动刷新插件](https://chrome.google.com/webstore/detail/free-auto-refresh/lfkfikiejjfhpfbpgfolfkkdjpepmkal) - 最好的免费页面自动刷新插件，可以帮助你以指定的时间间隔在恰当的时机自动刷新页面
 - [PDF Viewer](https://chrome.google.com/webstore/detail/pdf-viewer/oemmndcbldboiebfnladdacbdfmadadm) - 使用HTML5直接在浏览器中显示pdf格式媒体资源
 - [Favioli](https://chrome.google.com/webstore/detail/favioli/pnoookpoipfmadlpkijnboajfklplgbe) - 网站favicon的emoji
 - [划词翻译](https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad) - 一个简便但强大的翻译扩展。[![github][Github Icon]](https://github.com/Selection-Translator/crx-selection-translate)
