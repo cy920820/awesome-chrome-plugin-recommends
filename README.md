@@ -63,6 +63,7 @@
 
 ### Production Tool
 
+- [Checker Plus for Google Calendar™](https://chrome.google.com/webstore/detail/checker-plus-for-google-c/hkhggnncdpfibdhinjiegagmopldibha) - From the extension icon, you can get information about the meeting schedule and the date of todayl.
 - [Auto refresh Page plugin](https://chrome.google.com/webstore/detail/free-auto-refresh/lfkfikiejjfhpfbpgfolfkkdjpepmkal) - The best free page refresh plugin helps you automatically refresh the page at the right time and at the right time at the specified interval.
 - [PDF Viewer](https://chrome.google.com/webstore/detail/pdf-viewer/oemmndcbldboiebfnladdacbdfmadadm) - Uses HTML5 to display PDF files directly in the browser.
 - [Favioli](https://chrome.google.com/webstore/detail/favioli/pnoookpoipfmadlpkijnboajfklplgbe) - Emoji favicons for the web

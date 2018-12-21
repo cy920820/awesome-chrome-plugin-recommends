@@ -63,9 +63,10 @@
 
 ### 生产工具
 
-- [页面自动刷新插件](https://chrome.google.com/webstore/detail/free-auto-refresh/lfkfikiejjfhpfbpgfolfkkdjpepmkal) - 最好的免费页面自动刷新插件，可以帮助你以指定的时间间隔在恰当的时机自动刷新页面
-- [PDF Viewer](https://chrome.google.com/webstore/detail/pdf-viewer/oemmndcbldboiebfnladdacbdfmadadm) - 使用HTML5直接在浏览器中显示pdf格式媒体资源
-- [Favioli](https://chrome.google.com/webstore/detail/favioli/pnoookpoipfmadlpkijnboajfklplgbe) - 网站favicon的emoji
+- [谷歌日历加强版](https://chrome.google.com/webstore/detail/checker-plus-for-google-c/hkhggnncdpfibdhinjiegagmopldibha) - 从扩展图标中就能获悉之后的会议安排和今天的日期信息。
+- [页面自动刷新插件](https://chrome.google.com/webstore/detail/free-auto-refresh/lfkfikiejjfhpfbpgfolfkkdjpepmkal) - 最好的免费页面自动刷新插件，可以帮助你以指定的时间间隔在恰当的时机自动刷新页面。
+- [PDF Viewer](https://chrome.google.com/webstore/detail/pdf-viewer/oemmndcbldboiebfnladdacbdfmadadm) - 使用HTML5直接在浏览器中显示pdf格式媒体资源。
+- [Favioli](https://chrome.google.com/webstore/detail/favioli/pnoookpoipfmadlpkijnboajfklplgbe) - 网站favicon的emoji。
 - [划词翻译](https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad) - 一个简便但强大的翻译扩展。[![github][Github Icon]](https://github.com/Selection-Translator/crx-selection-translate)
 - [谷歌访问助手](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E8%AE%BF%E9%97%AE%E5%8A%A9%E6%89%8B/gocklaboggjfkolaknpbhddbaopcepfp?utm_source=chrome-app-launcher-info-dialog) - 最简单易用的谷歌访问助手,为chrome扩展用户量身打造。
 - [Mainichi](https://chrome.google.com/webstore/detail/mainichi/dfekdjmdikicceaiokcmmchenpilglhn?hl=zh-CN) 学习日语，每页一词。
@@ -82,7 +83,7 @@
 - [Evernote Web Clipper](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc) - 使用Evernote扩展将您在Web上看到的东西保存到Evernote帐户中。
 - [Grammarly for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) - 加强你的书面沟通, 无论你在什么地方打字
 - [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb) - Adblock Plus 是拥有超过 5 亿次下载的全球最受欢迎的广告拦截软件之一。
-- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - 安装管理油猴脚本 (GreaseMonkey) 
+- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - 安装管理油猴脚本 (GreaseMonkey) 。
 - [二维码(QR码)生成器](https://chrome.google.com/webstore/detail/%E4%BA%8C%E7%BB%B4%E7%A0%81qr%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8qr-code-generato/pflgjjogbmmcmfhfcnlohagkablhbpmg) - 可以生成当前页面二维码,手机直接扫二维码就可以访问当前页面。
 - [简悦 - SimpRead](https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll) - 让你瞬间进入沉浸式阅读的 Chrome 扩展，类似 Safari 的阅读模式。
 - [迅雷下载支持](https://chrome.google.com/webstore/detail/%E8%BF%85%E9%9B%B7%E4%B8%8B%E8%BD%BD%E6%94%AF%E6%8C%81/bclmkgofhdgekpoamoialodjdloiilod) - 迅雷下载支持，让您在Chrome浏览器中点击下载链接时，快速的调起迅雷客户端进行下载。
@@ -91,7 +92,7 @@
 
 ## 扩展程序
 
-- [Undo Close Tab](https://chrome.google.com/webstore/detail/undoclosetab/agoafanmgjplfjeiabopkembipjbpnac) - 可以恢复最近关闭的标签页
+- [Undo Close Tab](https://chrome.google.com/webstore/detail/undoclosetab/agoafanmgjplfjeiabopkembipjbpnac) - 可以恢复最近关闭的标签页。
 - [arc-welder](https://chrome.google.com/webstore/detail/arc-welder/emfinbmielocnlhgmfkkmkngdoccbadn) - 一款帮助您使用App Runtime for Chrome（beta），ARC测试和发布Android应用程序到Chrome OS的工具。
 
 
@@ -121,7 +122,7 @@
 
 ## 购物
 
-- [京价保 - 京东价保助手](https://chrome.google.com/webstore/detail/%E4%BA%AC%E4%BB%B7%E4%BF%9D-%E4%BA%AC%E4%B8%9C%E4%BB%B7%E4%BF%9D%E5%8A%A9%E6%89%8B/gfgkebiommjpiaomalcbfefimhhanlfd) - 京价保（京价宝）是自动为你申请京东价格保护，自动签到领京豆、钢镚的多功能京东助手
+- [京价保 - 京东价保助手](https://chrome.google.com/webstore/detail/%E4%BA%AC%E4%BB%B7%E4%BF%9D-%E4%BA%AC%E4%B8%9C%E4%BB%B7%E4%BF%9D%E5%8A%A9%E6%89%8B/gfgkebiommjpiaomalcbfefimhhanlfd) - 京价保（京价宝）是自动为你申请京东价格保护，自动签到领京豆、钢镚的多功能京东助手。
 - [全网自动比价工具](https://chrome.google.com/webstore/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E5%85%A8%E7%BD%91%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7%EF%BC%9A%E6%B7%98%E5%AE%9D%E4%BA%AC%E4%B8%9C%E7%BE%8E%E4%BA%9A%E6%97%A5%E4%BA%9A%E6%AF%94%E4%BB%B7%E3%80%8118/jgphnjokjhjlcnnajmfjlacjnjkhleah?utm_campaign=en) - 浏览商品页面时，自动比较同款商品在淘宝/京东/亚马逊/当当/苏宁/等百家商城的最低价，提供价格历史、口碑评分等查询。
 
 
@@ -132,7 +133,7 @@
 
 ## 体育
 
-- [365Scores](https://chrome.google.com/webstore/detail/365scores-live-scoresspor/nmpppefjehmjbiplimkfjeamnohldmko?utm_source=chrome-app-launcher-info-dialog) - 即时比分，新闻和实时通知您最喜欢的运动 - NFL，MLB，NBA，NHL，NCAA，足球，网球等
+- [365Scores](https://chrome.google.com/webstore/detail/365scores-live-scoresspor/nmpppefjehmjbiplimkfjeamnohldmko?utm_source=chrome-app-launcher-info-dialog) - 即时比分，新闻和实时通知您最喜欢的运动 - NFL，MLB，NBA，NHL，NCAA，足球，网球等。
 
 
 ## 无障碍
@@ -150,7 +151,7 @@
 ## 许可证
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-此项目基于 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+此项目基于 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)。
 
 ## 待办事项
 - [ ] 增加离线安装包
