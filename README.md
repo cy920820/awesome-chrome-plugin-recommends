@@ -14,24 +14,24 @@
 
 > If there are impropriety or recommended plug-ins, welcome [PR](https://github.com/Cui-y/awesome-chrome-plugin-recommends/pulls) or [issues](https://github.com/Cui-y/awesome-chrome-plugin-recommends/issues).
 
-## Change Log:
+## Change Log
 
 ## Table of Contents
 
-  - [Tools](#tools)
-    - [Developer Tool](#developer-tool)
-    - [Search Tool](#search-tool)
-    - [Production Tool](#production-tool)
-  - [Extension Program](#extension-program)
-  - [Entertainment](#entertainment)
-  - [Photo](#photo)
-  - [Social And Communication](#social-and-communication)
-  - [News And Weather](#news-and-weather)
-  - [Shopping](#shopping)
-  - [Blog](#blog)
-  - [Sports](#sports)
-  - [Accessibility](#accessibility)
-  - [Other](#other)
+- [Tools](#tools)
+  - [Developer Tool](#developer-tool)
+  - [Search Tool](#search-tool)
+  - [Production Tool](#production-tool)
+- [Extension Program](#extension-program)
+- [Entertainment](#entertainment)
+- [Photo](#photo)
+- [Social And Communication](#social-and-communication)
+- [News And Weather](#news-and-weather)
+- [Shopping](#shopping)
+- [Blog](#blog)
+- [Sports](#sports)
+- [Accessibility](#accessibility)
+- [Other](#other)
 
 ## Tools
 
@@ -41,7 +41,7 @@
 - [Octo Mate](https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkbmpkf) - List the navigation, file download, notification, etc. on the right side of the page.
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - Identify web technologies.
 - [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn?utm_source=chrome-app-launcher-info-dialog) - Clear cache and browse data with the click of a button.
-- [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN) - Manage and switch multiple proxy settings quickly and easily. 
+- [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN) - Manage and switch multiple proxy settings quickly and easily.
 - [WEB前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad) - FE assistant.
 - [classic-cache-killer](https://chrome.google.com/webstore/detail/classic-cache-killer/kkmknnnjliniefekpicbaaobdnjjikfp) - Automatically clear the browser cache before loading the page. It can be enabled/disabled with a single click of the mouse.
 - [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) - Resize the browser window to simulate various screen resolutions.
@@ -55,11 +55,9 @@
 - [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) - Chrome and Firefox DevTools extensions for debugging Vue.js applications.
 - [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-g/ffhkkpnppgnfaobgihpdblnhmmbodake) - Browse or add your own user agent using our predefined user agent.
 
-
 ### Search Tool
 
 - [右键搜](https://chrome.google.com/webstore/detail/context-menus/phlfmkfpmphogkomddckmggcfpmfchpn) - Expand right-click menu with over 300 features.
-
 
 ### Production Tool
 
@@ -89,17 +87,14 @@
 - [迅雷下载支持](https://chrome.google.com/webstore/detail/%E8%BF%85%E9%9B%B7%E4%B8%8B%E8%BD%BD%E6%94%AF%E6%8C%81/bclmkgofhdgekpoamoialodjdloiilod) - Thunder download support allows you to quickly launch the Thunder client for download when you click on the download link in the Chrome browser.
 - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - Keyboard streaming essential artifacts, you can use VIM to operate Chrome, Geek and keyboard operation controls.
 
-
 ## Extension Program
 
 - [Undo Close Tab](https://chrome.google.com/webstore/detail/undoclosetab/agoafanmgjplfjeiabopkembipjbpnac) -  Can restore the recently closed tab page.
 - [arc-welder](https://chrome.google.com/webstore/detail/arc-welder/emfinbmielocnlhgmfkkmkngdoccbadn) - A tool to help you use App Runtime for Chrome (beta), ARC testing and publishing Android apps to Chrome OS.
 
-
 ## Entertainment
 
 - [豆瓣FM-Hacker](https://chrome.google.com/webstore/detail/%E8%B1%86%E7%93%A3fm-hacker/pjpdhffcchclaedfnlkmpacghddkpgjh) - Embedded in the web version of Douban FM (douban.fm) page, list the song information that Douban FM has played, and provide song downloads, more single loops, red hearts songs and batch download scripts.
-
 
 ## Photo
 
@@ -108,33 +103,27 @@
 - [Fatkun](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?hl=zh-CN) - Find all the pictures on the current page, provide filters by resolution, links, etc., and download the images in batches.
 - [新浪微博图床](https://chrome.google.com/webstore/detail/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E5%9B%BE%E5%BA%8A/fdfdnfpdplfbbnemmmoklbfjbhecpnhf?utm_campaign=en) - Simple and easy to use Sina Weibo map bed, support selection / drag / paste upload pictures, and generate image address, HTML, UBB and Markdown formats, support browsing and delete history.
 
-
 ## Social And Communication
 
 - [Google Mail Checker](https://chrome.google.com/webstore/detail/google-mail-checker/mihcahmgecmbnbcchbopgniflfhgnkff) - Shows the number of unread messages in your Google Mail inbox.
 - [Checker Plus for Gmail™](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj) - Receive email notifications on your desktop without having to open Gmail or Inbox, easily view, listen to or delete messages, and support multiple accounts.
 
-
 ## News And Weather
 
 - [Weather](https://chrome.google.com/webstore/detail/weather/iolcbmjhmpdheggkocibajddahbeiglb) - The best way to view Weather in your browser. It's easier than looking outside!
-
 
 ## Shopping
 
 - [京价保 - 京东价保助手](https://chrome.google.com/webstore/detail/%E4%BA%AC%E4%BB%B7%E4%BF%9D-%E4%BA%AC%E4%B8%9C%E4%BB%B7%E4%BF%9D%E5%8A%A9%E6%89%8B/gfgkebiommjpiaomalcbfefimhhanlfd) - Beijing price insurance (Jing price treasure) is a multi-functional Jingdong assistant who automatically applies for Jingdong price protection for you, and automatically signs in to Beijing Jingdou and Gangwon.
 - [全网自动比价工具](https://chrome.google.com/webstore/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E5%85%A8%E7%BD%91%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7%EF%BC%9A%E6%B7%98%E5%AE%9D%E4%BA%AC%E4%B8%9C%E7%BE%8E%E4%BA%9A%E6%97%A5%E4%BA%9A%E6%AF%94%E4%BB%B7%E3%80%8118/jgphnjokjhjlcnnajmfjlacjnjkhleah?utm_campaign=en) - When browsing the product page, it automatically compares the lowest price of the same item in Taobao/Jingdong/Amazon/Dangdang/Suning/100 stores, and provides price history and word-of-mouth rating.
 
-
 ## Blog
 
 - [Daily-Front-End-news](https://chrome.google.com/webstore/detail/daily-front-end-news/dcijaoifeaaafbdglmalaajeedcamogg) - Front-end daily frontier information push - front end, Node, visualization, Python, tools, artificial intelligence, blockchain, etc.
 
-
 ## Sports
 
 - [365Scores](https://chrome.google.com/webstore/detail/365scores-live-scoresspor/nmpppefjehmjbiplimkfjeamnohldmko?utm_source=chrome-app-launcher-info-dialog) - Live scores, news and real-time notifications of your favorite sports - NFL, MLB, NBA, NHL, NCAA, football, tennis and more.
-
 
 ## Accessibility
 
@@ -142,10 +131,7 @@
 - [Incognito-Filter](https://chrome.google.com/webstore/detail/incognito-filter/cifilbmpnkjinlkchohdfcpdkmpngiik) - Let the specified website open in an "incognito window" to deal with sites that don't want to leave a trace.
 - [download-manager](https://chrome.google.com/webstore/detail/download-manager/daoidaoebhfcgccdpgjjcbdginkofmfe) - Manage your downloads in the top right of Chrome's toolbar.
 
-
 ## Other
-
-
 
 **[⬆ back to top](#table-of-contents)**
 
