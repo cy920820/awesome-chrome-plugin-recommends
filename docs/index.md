@@ -1,19 +1,14 @@
-# Awesome Chrome Extensions
+# Awesome Chrome Extensions [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md) [![Build Status](https://travis-ci.org/Cui-y/awesome-chrome-plugin-recommends.svg)](https://travis-ci.org/Cui-y/awesome-chrome-plugin-recommends.svg)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md) [![Build Status](https://travis-ci.org/Cui-y/awesome-chrome-plugin-recommends.svg)](https://travis-ci.org/Cui-y/awesome-chrome-plugin-recommends.svg)
-
-![geek](./media/geek.jpg)
+![geek][Geek]
 
 ## Write in front of the words
 
-[English](README.md) | [中文](README-cn.md)
+[English](index.md) | [中文](README-cn.md)
 
-> Featured Google Chrome Plugin List.
-
-> Items marked with ![Github][Github Icon] are open-source software. Items marked with ![Pay][Pay Icon] are pay.
-
-> Document format according to [Awesome](https://github.com/sindresorhus/awesome).
-
+> Featured Google Chrome Plugin List.  
+> Items marked with ![Github][Github Icon] are open-source software. Items marked with ![Pay][Pay Icon] are pay.  
+> Document format according to [Awesome](https://github.com/sindresorhus/awesome).  
 > If there are impropriety or recommended plug-ins, welcome [PR](https://github.com/Cui-y/awesome-chrome-plugin-recommends/pulls) or [issues](https://github.com/Cui-y/awesome-chrome-plugin-recommends/issues).
 
 ## Change Log
@@ -147,5 +142,6 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 - [ ] Add Offline Installer
 
-[Github Icon]: ./media/github.svg
-[Pay Icon]: ./media/pay.svg
+[Github Icon]: https://ws4.sinaimg.cn/large/006tNc79ly1fzpxmqrvrvj300g00g0ha.jpg
+[Pay Icon]: https://ws1.sinaimg.cn/large/006tNc79ly1fzpxlxgtcsj300g00g0i5.jpg
+[Geek]: https://ws3.sinaimg.cn/large/006tNc79ly1fzpxg9ykgfj30zk0nptcx.jpg

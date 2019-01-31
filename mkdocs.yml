@@ -1,0 +1,20 @@
+site_name: 'Awesome Chrome Plugin Recommends'
+site_url: 'https://cy920820.github.io/awesome-chrome-plugin-recommends'
+site_description: 'Featured Google Chrome Plugin List.'
+site_author: 'Cui Yang'
+repo_name: 'cy920820/awesome-chrome-plugin-recommends'
+repo_url: 'https://github.com/cy920820/awesome-chrome-plugin-recommends'
+theme: 'material'
+extra:
+  feature:
+    tabs: false
+  social:
+    - type: 'github'
+      link: 'https://github.com/cy920820'
+    - type: 'twitter'
+      link: 'https://twitter.com/cy920820'
+extra_css:
+    - css/extra.css
+pages:
+  - "英文版": "index.md"
+  - "中文版": "README-cn.md"
