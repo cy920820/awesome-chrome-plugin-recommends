@@ -1,0 +1,24 @@
+{
+  "name": "awesome-chrome-plugin-recommend",
+  "version": "1.0.0",
+  "description": "Featured Google Chrome Plugin List.",
+  "main": "",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "serve": "python -m mkdocs serve",
+    "build": "python -m mkdocs build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cui-y/awesome-chrome-plugin-recommend.git"
+  },
+  "keywords": [],
+  "author": "Cui Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cui-y/awesome-chrome-plugin-recommend/issues"
+  },
+  "homepage": "https://github.com/Cui-y/awesome-chrome-plugin-recommend#readme"
+}
