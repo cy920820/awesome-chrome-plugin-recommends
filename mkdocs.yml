@@ -15,6 +15,6 @@ extra:
       link: 'https://twitter.com/cy920820'
 extra_css:
     - css/extra.css
-pages:
+nav:
   - "English": "index.md"
   - "中文": "README-cn.md"
