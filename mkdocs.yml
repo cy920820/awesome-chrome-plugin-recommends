@@ -16,5 +16,5 @@ extra:
 extra_css:
     - css/extra.css
 pages:
-  - "英文版": "index.md"
-  - "中文版": "README-cn.md"
+  - "English": "index.md"
+  - "中文": "README-cn.md"
