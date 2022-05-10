@@ -88,6 +88,7 @@
 - [简悦 - SimpRead](https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll) - A Chrome extension that lets you instantly immersively read, similar to Safari's reading mode.
 - [迅雷下载支持](https://chrome.google.com/webstore/detail/%E8%BF%85%E9%9B%B7%E4%B8%8B%E8%BD%BD%E6%94%AF%E6%8C%81/bclmkgofhdgekpoamoialodjdloiilod) - Thunder download support allows you to quickly launch the Thunder client for download when you click on the download link in the Chrome browser.
 - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - Keyboard streaming essential artifacts, you can use VIM to operate Chrome, Geek and keyboard operation controls.
+- [Taskade](https://chrome.google.com/webstore/detail/taskade-team-tasks-notes/hcobdfnjjaceclfdjpmmpiknimccjpmf) - Real-time organization and collaboration tool for remote teams. Create task lists, mind maps, and kanban boards, and GTD in one unified workspace. Taskade is cross-platform and free to use for teams.
 
 ## Extension Program
 
